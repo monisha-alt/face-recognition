@@ -1,0 +1,8 @@
+opencv-python
+dlib
+numpy
+tensorflow==2.16.1
+scikit-learn
+joblib
+pyttsx3
+
